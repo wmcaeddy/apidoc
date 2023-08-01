@@ -1,9 +1,9 @@
 This is the server side API definition. <br>
-answertype
-0: shortanswer -> "null"
-1: shortanswer -> "true"/"false" //承認/否定
-2: shortanswer -> "true"/"false" //正確/誤った
-3: shortanswer -> "any string" //open end
+answertype <br>
+0: shortanswer -> "null" <br>
+1: shortanswer -> "true"/"false" //承認/否定 <br>
+2: shortanswer -> "true"/"false" //正確/誤った <br>
+3: shortanswer -> "any string" //open end <br>
 4: // not in use
 
 API Call: Generate Secret Code
