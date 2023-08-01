@@ -1,4 +1,4 @@
-This is the server side API definition. 
+This is the server side API definition. <br>
 answertype
 0: shortanswer -> "null"
 1: shortanswer -> "true"/"false" //承認/否定
