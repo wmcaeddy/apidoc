@@ -1,3 +1,11 @@
+This is the server side API definition. 
+answertype
+0: shortanswer -> "null"
+1: shortanswer -> "true"/"false" //承認/否定
+2: shortanswer -> "true"/"false" //正確/誤った
+3: shortanswer -> "any string" //open end
+4: // not in use
+
 API Call: Generate Secret Code
 
     Method: GET
